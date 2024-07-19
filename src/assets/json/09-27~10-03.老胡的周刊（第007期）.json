@@ -1,0 +1,46 @@
+{
+    "🎯 项目": [
+        {
+            "name": "notion-avatar",
+            "description": "如果你使用Notion，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成Notion风格的头像，特别赞：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg",
+            "link": "https://github.com/Mayandev/notion-avatar"
+        },
+        {
+            "name": "btop",
+            "description": "一款界面酷炫的资源管理器，不过我用htop就够够的了。",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg",
+            "link": "https://github.com/aristocratos/btop"
+        }
+    ],
+    "🤖 软件": [
+        {
+            "name": "xplorer",
+            "description": "支持用户自定义、开源的现代化文件浏览器，作者kimlim还是一名高中生，相关特性如下： 跨平台：支持 Windows、Linux、macOS 等主流桌面系统 现代化且易用 多种格式文件预览，音频也可以 …在老胡的周刊（第005期）中介绍的 filebrowser 提供了网页端的文件管理方式，可以结合使用场景进行选择。",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg",
+            "link": "https://github.com/kimlimjustin/xplorer"
+        },
+        {
+            "name": "Xournal++",
+            "description": "Xournal++是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/2DWaXR.jpg",
+            "link": "https://github.com/xournalpp/xournalpp"
+        }
+    ],
+    "👀 资料": [
+        {
+            "name": "Reflection_Summary",
+            "description": "算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png",
+            "link": "https://github.com/sladesha/Reflection_Summary"
+        }
+    ],
+    "🕸 网站": [
+        {
+            "name": "必应壁纸",
+            "description": "收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/bing.jpg",
+            "link": "https://bing.ioliu.cn/"
+        }
+    ]
+}

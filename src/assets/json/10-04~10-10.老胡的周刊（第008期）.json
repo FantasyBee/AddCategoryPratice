@@ -1,0 +1,46 @@
+{
+    "🎯 项目": [
+        {
+            "name": "nativefier",
+            "description": "这是一个开源的命令行工具，可以将任何Web网页打包成桌面应用，支持macOS 10.9+ / Windows / Linux：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/nativefier_walkthrough.gif",
+            "link": "https://github.com/nativefier/nativefier"
+        }
+    ],
+    "🤖 软件": [
+        {
+            "name": "YesPlayMusic",
+            "description": "这是一款免费开源的高颜值的第三方网易云播放器，支持Windows / macOS / Linux，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 全平台第三方网易云播放器，把变灰歌曲点亮！ 来宣传，强烈推荐各位使用。YesPlayMusic的特性很丰富，其中最吸引我有以下两个特性： \n \n \n \n点亮变灰歌曲：这个特性之前有个UnblockNeteaseMusic[3]项目专门用来解锁网易云音乐客户端变灰歌曲，但是遗憾的是目前已经失效。解放VIP限制：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/neteasy.png",
+            "link": "https://github.com/qier222/YesPlayMusic"
+        }
+    ],
+    "👀 资料": [
+        {
+            "name": "穷佐罗的Linux书",
+            "description": "穷佐罗的Linux书，挺不错的一份Linux教程。",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg",
+            "link": "https://zorrozou.github.io/"
+        },
+        {
+            "name": "30-Days-Of-React",
+            "description": "30天学习React，一份免费的开源教程，在Github快上万Star了，有兴趣的可以试试：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg",
+            "link": "https://github.com/Asabeneh/30-Days-Of-React"
+        }
+    ],
+    "🕸 网站": [
+        {
+            "name": "futurecoder",
+            "description": "一个开源免费的在线Python学习网站，也可以在线执行脚本，颜值也非常高。",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg",
+            "link": "https://futurecoder.io/course/#ide"
+        },
+        {
+            "name": "http.cat",
+            "description": "如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg",
+            "link": "https://http.cat"
+        }
+    ]
+}

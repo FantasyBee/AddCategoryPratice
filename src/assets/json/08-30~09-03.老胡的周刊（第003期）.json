@@ -1,0 +1,40 @@
+{
+    "🎯 项目": [
+        {
+            "name": "whoogle-search",
+            "description": "这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说元搜索引擎就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点： 自部署 去广告 去追踪 自定义如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/mUGf6O-20230909194304629.png",
+            "link": "https://github.com/benbusby/whoogle-search"
+        },
+        {
+            "name": "bigdata_analyse",
+            "description": "作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。项目列表如下：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png",
+            "link": "https://github.com/TurboWay/bigdata_analyse"
+        }
+    ],
+    "🤖 软件": [
+        {
+            "name": "Vieb",
+            "description": "开源免费的全平台（PC）Vim风格电子浏览器：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png",
+            "link": "https://vieb.dev/"
+        }
+    ],
+    "👀 资料": [
+        {
+            "name": "Getting-Things-Done-with-Pytorch",
+            "description": "基于Jupyter的PyTorch教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向： NLP CV Time Series目录概览：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png",
+            "link": "https://github.com/curiousily/Getting-Things-Done-with-Pytorch"
+        }
+    ],
+    "🕸 网站": [
+        {
+            "name": "Qwerty Learner",
+            "description": "这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 目前有两种方式使用这个项目： 网站：推荐 VS Code插件",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/tHD4ez.png",
+            "link": "https://qwerty.kaiyi.cool/gallery"
+        }
+    ]
+}

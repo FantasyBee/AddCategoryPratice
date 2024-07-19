@@ -1,0 +1,64 @@
+{
+    "🎯 项目": [
+        {
+            "name": "uptime-kuma",
+            "description": "一个开源可自建的网站监控工具，用于监控网站的运行状态：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/vTUcC7.jpg",
+            "link": "https://github.com/louislam/uptime-kuma"
+        },
+        {
+            "name": "hoppscotch",
+            "description": "Hoppscotch对标的是Postman，相信涉及到后端接口这块大家都对Postman非常熟悉，但Postman自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到hoppscotch来替换。有恶龙就有勇士，有位印度裔小哥Liyas Thomas坐不住了，对Postman非常不爽，于是他自己开发了Postwoman，看这个名字也知道是干嘛的，后面改名为Hoppscotch。开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以Hoppscotch在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/sPde7J.png",
+            "link": "https://github.com/hoppscotch/hoppscotch"
+        },
+        {
+            "name": "notion-zh_CN",
+            "description": "让Notion中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。",
+            "image": null,
+            "link": "https://github.com/Reamd7/notion-zh_CN"
+        },
+        {
+            "name": "Real-ESRGAN",
+            "description": "Real-ESRGA目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg",
+            "link": "https://www.appinn.com/real-esrgan/"
+        }
+    ],
+    "🤖 软件": [
+        {
+            "name": "legado",
+            "description": "阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png",
+            "link": "https://github.com/gedoor/legado"
+        },
+        {
+            "name": "SmsForwarder",
+            "description": "短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。\n如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg",
+            "link": "https://github.com/pppscn/SmsForwarder"
+        }
+    ],
+    "👀 资料": [
+        {
+            "name": "ascoders/weekly",
+            "description": "前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及： 前沿技术 设计模式 编译原理 源码解读 商业思考 算法非常全面，前端从事人员可以看看。",
+            "image": null,
+            "link": "https://github.com/ascoders/weekly"
+        },
+        {
+            "name": "miaosha",
+            "description": "高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg",
+            "link": "https://github.com/qiurunze123/miaosha"
+        }
+    ],
+    "🕸 网站": [
+        {
+            "name": "Python Tutor",
+            "description": "这个网站可以将Python代码执行并可视化展示，目前共支持Python、Java、C、C++、JavaScript、Ruby等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png",
+            "link": "https://pythontutor.com/?"
+        }
+    ]
+}

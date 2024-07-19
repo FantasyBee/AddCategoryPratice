@@ -1,0 +1,58 @@
+{
+    "🎯 项目": [
+        {
+            "name": "aliyundrive-webdav",
+            "description": "阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png",
+            "link": "https://github.com/messense/aliyundrive-webdav"
+        },
+        {
+            "name": "500lines",
+            "description": "如果工作中用Python比较多的朋友，应该会听过500lines项目，它是aosabook项目（下面网站部分有介绍）的第四本书。这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有： 持续集成系统 分布式系统 异步爬虫 等等如果想阅读中文，见500LineorLess_CN项目，但是还没有完全翻译完毕。",
+            "image": null,
+            "link": "https://github.com/aosabook/500lines"
+        }
+    ],
+    "🤖 软件": [
+        {
+            "name": "中文 DOS 游戏",
+            "description": "中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的网页上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/DOS.png",
+            "link": "https://github.com/rwv/chinese-dos-games"
+        }
+    ],
+    "👀 资料": [
+        {
+            "name": "阮一峰-clang-tutorial",
+            "description": "阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png",
+            "link": "https://github.com/wangdoc/clang-tutorial"
+        },
+        {
+            "name": "The Machine & Deep Learning Compendium",
+            "description": "作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png",
+            "link": "https://book.mlcompendium.com/full-stack-and-ops#kubernetes"
+        }
+    ],
+    "🕸 网站": [
+        {
+            "name": "aosabook",
+            "description": "网站全名👉Architecture of Open Source Applications，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如： ZeroMQ Chrome Nginx 等等上面项目栏目介绍的500lines项目就是aosabook系列第四本书的源码。",
+            "image": null,
+            "link": "http://aosabook.org/en/index.html"
+        },
+        {
+            "name": "网道",
+            "description": "前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。目前提供了不少教程，对于初学者是非常友好的：",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png",
+            "link": "https://wangdoc.com/"
+        },
+        {
+            "name": "tReader",
+            "description": "如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：\n基本功能如下： 手机端适配，阅读效果优秀 点左上角的添加按钮可以添加文件 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择 如果文件打开乱码，请考虑使用 UTF-8 保存文件 文件列表，左滑、右键或按Delete可以显示删除按钮 书签 搜索 目录等",
+            "image": "https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg",
+            "link": "https://tiansh.github.io/reader/#!/read/1"
+        }
+    ]
+}
